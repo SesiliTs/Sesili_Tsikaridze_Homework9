@@ -94,6 +94,13 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				KnownAssetTags = (
+					generateButton1,
+					generateButton2,
+					generateButton3,
+					generateButton4,
+					generateButton5,
+				);
 				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1410;
 				TargetAttributes = {
